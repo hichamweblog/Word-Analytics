@@ -8,7 +8,9 @@
   - [Demo](#demo)
   - [Key Features](#key-features)
   - [How to Use](#how-to-use)
+  - [Contributing](#contributing)
   - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
@@ -69,6 +71,16 @@ npm run dev
 
 This command will launch a development server, and you'll be able to view the website locally in your web browser.
 
+## Contributing
+
+If you would like to contribute to this repository, feel free to open issues or submit pull requests. Contributions and improvements are always welcome.
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
+
+## Acknowledgments
+
+This project is inspired by [this course](https://bytegrad.com/courses/professional-javascript).
+Special thanks to the instructor.
+
